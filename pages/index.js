@@ -5,8 +5,8 @@ export default function Home({ data }) {
   return (
     <div>
       <Head>
-        <title>Solar</title>
-        <meta name="description" content="Solar info" />
+        <title>Cat Facts</title>
+        <meta name="description" content="We tell facts about cats." />
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main className='container mx-auto px-10 lg:px-96'>
