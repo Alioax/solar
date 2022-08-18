@@ -11,7 +11,6 @@ export default function Home({ data }) {
         <link rel="icon" href="/logo.png" />
       </Head>
       <main className='container mx-auto px-10 lg:px-96'>
-
       </main>
     </div>
   )
